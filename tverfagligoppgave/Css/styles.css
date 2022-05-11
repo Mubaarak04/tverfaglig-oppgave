@@ -1,0 +1,29 @@
+/**********TAG SELEKTOR *************/
+body {
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+hr {
+  width: 0%;
+}
+
+/*********** CLASS SELEKTOR ************/
+.mail {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+.passord {
+  text-align: center;
+  margin-top: 1rem;
+}
+.link {
+  margin-left: 27rem;
+}
+.navn {
+  text-align: center;
+}
