@@ -1,3 +1,3 @@
 # tverfaglig-oppgave
 
-link til homepage :) mubaarakindusties.site
+link til homepage :) www.mubaarakindusties.site
